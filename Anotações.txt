@@ -1,0 +1,19 @@
+
+
+Conversão de dados PARSE
+  console.log(parseint("2") + parseint("2"));
+
+    ===>> irá converter a string "2" em inteiro
+
+
+   console.log("10" / "2");
+      ==>> resulado 5
+      ==>> na divisão a conversão he automatica
+
+
+   console.log("ricardo" / "2");
+      ==>> resulado NaN   (not a number)
+      ==>> tentou converter automaticamente e não conseguiu
+
+
+
